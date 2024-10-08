@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-boostrap/static/css/main.f81246b2.css",
+    "main.js": "/react-boostrap/static/js/main.3e554a86.js",
+    "static/js/453.331ffa9c.chunk.js": "/react-boostrap/static/js/453.331ffa9c.chunk.js",
+    "static/media/image2.jpg": "/react-boostrap/static/media/image2.f57e37a5b9faa9d51e1c.jpg",
+    "static/media/image3.jpg": "/react-boostrap/static/media/image3.de2e4145d934e647f47d.jpg",
+    "index.html": "/react-boostrap/index.html",
+    "main.f81246b2.css.map": "/react-boostrap/static/css/main.f81246b2.css.map",
+    "main.3e554a86.js.map": "/react-boostrap/static/js/main.3e554a86.js.map",
+    "453.331ffa9c.chunk.js.map": "/react-boostrap/static/js/453.331ffa9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f81246b2.css",
+    "static/js/main.3e554a86.js"
+  ]
+}
